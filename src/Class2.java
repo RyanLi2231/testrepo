@@ -9,4 +9,8 @@ public class Class2 {
         }
         System.out.println("num");
     }
+
+    public void cat() {
+        System.out.println("meow");
+    }
 }
