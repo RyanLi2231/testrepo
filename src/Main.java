@@ -7,5 +7,8 @@ public class Main {
         if (1 == 1) {
             System.out.println("AAAAAAAAAAAAAAAAA");
         }
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
