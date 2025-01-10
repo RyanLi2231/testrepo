@@ -17,4 +17,7 @@ public class Class2 {
     public void dog() {
         System.out.println("woof");
     }
+    public String fruit() {
+        return "Apple";
+    }
 }
