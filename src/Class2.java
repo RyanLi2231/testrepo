@@ -8,5 +8,10 @@ public class Class2 {
             num += 2;
         }
         System.out.println("num");
+        cat()
+    }
+
+    public void cat() {
+        System.out.println("meow");
     }
 }
