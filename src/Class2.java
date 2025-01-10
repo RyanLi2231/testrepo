@@ -13,4 +13,7 @@ public class Class2 {
     public void cat() {
         System.out.println("meow");
     }
+    public String fruit() {
+        return "Apple";
+    }
 }
