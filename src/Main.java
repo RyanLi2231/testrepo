@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("WWWWWWWWWWWWWWWWWWWWWWWWWWWW");
+        System.out.println("wert");
         System.out.println("Change String");
         System.out.println("CONFLICT");
         System.out.println("Another print statement");
